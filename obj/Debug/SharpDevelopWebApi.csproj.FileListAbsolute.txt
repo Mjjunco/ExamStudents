@@ -1,0 +1,200 @@
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\SharpDevelopWebApi.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\SharpDevelopWebApi.pdb
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\AutoMapper.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\EntityFramework.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\EntityFramework.SqlServer.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\FluentValidation.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\FluentValidation.WebApi.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Hangfire.Core.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Hangfire.MemoryStorage.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Newtonsoft.Json.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\NPOI.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\NPOI.OOXML.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\NPOI.OpenXml4Net.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\NPOI.OpenXmlFormats.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Owin.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\SimpleExcelImport.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Swashbuckle.Core.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Net.Http.Formatting.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Cors.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Helpers.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Http.Cors.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Http.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Http.WebHost.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Razor.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.WebPages.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.WebPages.Razor.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\TuesPechkin.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\TuesPechkin.Wkhtmltox.Win32.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\WebActivatorEx.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\AutoMapper.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\EntityFramework.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\EntityFramework.SqlServer.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\FluentValidation.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\FluentValidation.WebApi.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Hangfire.Core.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\Newtonsoft.Json.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\NPOI.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\SimpleExcelImport.pdb
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Net.Http.Formatting.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Helpers.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Http.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Http.Cors.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Http.WebHost.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.Razor.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.WebPages.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\bin\System.Web.WebPages.Razor.xml
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\obj\Debug\SharpDevelopWebApi.dll
+C:\Users\BBIBBI\Documents\School\Integrative Programming\madridano-web-api-exam\webapi-madridano-exam\obj\Debug\SharpDevelopWebApi.pdb
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\SharpDevelopWebApi.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\SharpDevelopWebApi.pdb
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\AutoMapper.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\EntityFramework.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\EntityFramework.SqlServer.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\FluentValidation.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\FluentValidation.WebApi.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Hangfire.Core.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Hangfire.MemoryStorage.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\ICSharpCode.SharpZipLib.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.AspNet.SignalR.Owin.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.IdentityModel.Logging.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.IdentityModel.Tokens.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Newtonsoft.Json.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\NPOI.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\NPOI.OOXML.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\NPOI.OpenXml4Net.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\NPOI.OpenXmlFormats.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Owin.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\SimpleExcelImport.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Swashbuckle.Core.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Net.Http.Formatting.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Cors.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Helpers.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Http.Cors.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Http.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Http.WebHost.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Razor.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.WebPages.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\TuesPechkin.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\TuesPechkin.Wkhtmltox.Win32.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\WebActivatorEx.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\AutoMapper.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\EntityFramework.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\EntityFramework.SqlServer.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\FluentValidation.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\FluentValidation.WebApi.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Hangfire.Core.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.AspNet.SignalR.Owin.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.IdentityModel.Logging.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.IdentityModel.Tokens.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\Newtonsoft.Json.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\NPOI.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\SimpleExcelImport.pdb
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Net.Http.Formatting.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Helpers.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Http.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Http.Cors.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Http.WebHost.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.Razor.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.WebPages.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\obj\Debug\SharpDevelopWebApi.dll
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\obj\Debug\SharpDevelopWebApi.pdb
+F:\School\3rd year, SY 2020 - 2021\P1\integrative-programming\SharpDevelopWebAPI\obj\Debug\SharpDevelopWebApi.csprojResolveAssemblyReference.cache
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\SharpDevelopWebApi.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\SharpDevelopWebApi.pdb
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Newtonsoft.Json.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\EntityFramework.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\EntityFramework.SqlServer.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\obj\Debug\SharpDevelopWebApi.csprojResolveAssemblyReference.cache
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\obj\Debug\SharpDevelopWebApi.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\obj\Debug\SharpDevelopWebApi.pdb
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\EntityFramework.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\EntityFramework.SqlServer.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\AutoMapper.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\FluentValidation.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\FluentValidation.WebApi.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Hangfire.Core.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Hangfire.MemoryStorage.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\NPOI.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\NPOI.OOXML.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\NPOI.OpenXml4Net.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\NPOI.OpenXmlFormats.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Owin.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\SimpleExcelImport.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Swashbuckle.Core.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Net.Http.Formatting.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Cors.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Helpers.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Http.Cors.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Http.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Http.WebHost.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Razor.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.WebPages.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.WebPages.Razor.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\TuesPechkin.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\WebActivatorEx.dll
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\AutoMapper.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\FluentValidation.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\FluentValidation.WebApi.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Hangfire.Core.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\Newtonsoft.Json.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\NPOI.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\SimpleExcelImport.pdb
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Net.Http.Formatting.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Helpers.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Http.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Http.Cors.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Http.WebHost.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.Razor.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.WebPages.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\System.Web.WebPages.Razor.xml
+C:\Users\acern\Dropbox\My PC (LAPTOP-I5O5I6AJ)\Downloads\SharpDevelopWebAPI-student-grade\SharpDevelopWebAPI-student-grade\bin\TuesPechkin.Wkhtmltox.Win32.dll
